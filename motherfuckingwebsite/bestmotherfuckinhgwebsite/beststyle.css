@@ -1,0 +1,56 @@
+.motherfucking{
+    color: #b00000 ;
+}
+
+html {
+    background-color: black;
+    
+}
+body {
+    font-family: Arial;
+    color:#d9d9d9;
+    font-size: 16px;
+    margin: 2em auto;
+    max-width: 800px;
+    padding: 1em;
+    line-height: 1.4;
+    text-align:justify
+}
+
+.wrong{
+    color:#d24637;
+}
+
+a{
+    color: #00a2e7;
+}
+
+
+.blue{
+    color:#00e;
+}
+
+.violet{
+    color:#551a8b;
+}
+
+img {
+    width: 1em;
+    height: 1em;
+}
+
+.class444 {
+    color : #444;
+}
+
+.class454545 {
+    color: #454545;
+}
+
+.positioning {
+    float: left;
+  
+    overflow: hidden;
+    margin-right:1em;
+    width: 7rem;
+}
